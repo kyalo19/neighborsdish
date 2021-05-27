@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="EditTextName" type="id" />
+    <item name="EditTextPhoneNo" type="id"/>
+    <item name="btnSaveButton" type="id"/>
+    <item name="textViewEmailAddress" type="id"/>
+    <item name="update_imageView" type="id"/>
+    <item name="create_profile" type="id"/>
+    <item name="iv_dish_image" type="id"/>
+    <item name="tv_dish_name" type="id"/>
+    <item name="bottom_navigation" type="id"/>
+    <item name="main_activity_fragment" type="id"/>
+    <item name="textViewEmailAdress" type="id" />
+</resources>

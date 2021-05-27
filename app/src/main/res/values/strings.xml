@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Neighbours Dish</string>
+    <string name="forget_your_password">Forgot your Password?</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="ok">OK</string>
+    <string name="password">password</string>
+    <string name="mail_address">mail_address</string>
+    <string name="sign_in">SIGN IN!</string>
+    <string name="reset_my_password">RESET MY PASSWORD</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="surname">Surname</string>
+    <string name="enter_your_surname">Enter Your Surname</string>
+    <string name="edit_profile">edit_profile</string>
+    <string name="phone_number">phone_number</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="e_mail">E_mail</string>
+    <string name="email_address">email_address</string>
+    <string name="home_made_food">Home-made Food</string>
+    <string name="buy_and_sell_delicious">Buy and Sell Delicious</string>
+    <string name="neighboursdish">NeighboursDish</string>
+
+    <!--Bottom Navigation View-->
+    <string name="bottom_nav_seller">Seller</string>
+    <string name="bottom_nav_dishes">Dishes</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_my_orders">Orders</string>
+    <string name="bottom_nav_favorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dummy_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+    </string>
+
+
+    <string name="price">Price</string>
+    <string name="nis">NIS</string>
+    <string name="how_much_grams">how much grams?</string>
+    <string name="units">units</string>
+    <string name="by_pieces">By Pieces</string>
+    <string name="by_grams">By grams</string>
+    <string name="amount">Amount</string>
+    <string name="next">next</string>
+    <string name="i_am_favorite">I am favorite</string>
+    <string name="the_dish_belongs_to_the_following_categories">The Dish belongs to the following categories:</string>
+    <string name="textview">TextView</string>
+    <string name="_1">1$</string>
+</resources>

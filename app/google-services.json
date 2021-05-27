@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335957848811",
+    "firebase_url": "https://neigbours-dish.firebaseio.com",
+    "project_id": "neigbours-dish",
+    "storage_bucket": "neigbours-dish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335957848811:android:58b1d845d2f3fe778f44ae",
+        "android_client_info": {
+          "package_name": "com.kyalo.neighboursdish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335957848811-i9ehjkkk05tb182kuqtmtuelhmh78v8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3hYujdXPej6VhwMXgF72nRJuY_P_ETc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335957848811-i9ehjkkk05tb182kuqtmtuelhmh78v8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

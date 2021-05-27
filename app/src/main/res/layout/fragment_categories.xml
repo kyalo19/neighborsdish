@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_categories"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.DishesFragment">
+
+
+    <GridView
+        android:id="@+id/listvieww"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_below="@+id/rel"
+        android:divider="@android:color/white"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="709dp" />
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:background="@color/Orange"
+        android:text="@string/next"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <!--
+            <ImageView
+                android:id="@+id/fish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fish" />
+
+            <ImageView
+                android:id="@+id/steak"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/steak" />
+
+            <ImageView
+                android:id="@+id/shrimp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/shrimp" />
+
+            <ImageView
+                android:id="@+id/turkey"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/turkey" />
+
+            <ImageView
+                android:id="@+id/turkey"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/turkey" />
+
+            <ImageView
+                android:id="@+id/avocado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/avocado" />
+
+            <ImageView
+                android:id="@+id/cake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/cake" />
+
+
+            <ImageView
+                android:id="@+id/cupcake"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/cupcake" />
+
+            <ImageView
+                android:id="@+id/bread"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bread" />
+    -->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

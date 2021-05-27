@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/bottom_nav_seller"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_nav_seller"
+        android:title="@string/bottom_nav_seller"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bottom_nav_dishes"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_nav_dishes"
+        android:title="@string/bottom_nav_dishes"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottom_nav_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_nav_search"
+        android:title="@string/bottom_nav_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottom_nav_my_orders"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_nav_my_orders"
+        android:title="@string/bottom_nav_my_orders"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bottom_nav_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_nav_favorites"
+        android:title="@string/bottom_nav_favorites"
+        app:showAsAction="always" />
+
+
+</menu>
